@@ -1,0 +1,12 @@
+{
+  "name": "sistema-agendamento-clinica",
+  "version": "1.0.0",
+  "description": "Sistema de agendamento para clínica",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
